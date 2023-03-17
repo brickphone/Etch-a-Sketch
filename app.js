@@ -6,3 +6,4 @@ for (let i = 0; i < gridSize * gridSize; i++) {
   square.classList.add('grid-square');
   container.appendChild(square);
 }
+
