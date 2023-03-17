@@ -9,4 +9,16 @@ body {
 
 #container {
   display: grid;
+  grid-template-columns: repeat(16, 1fr);
+  grid-template-rows: repeat(16, 1fr);
+  grid-gap: 1px;
+  background-color: #ccc;
+  width: 320px;
+  height: 320px;
+}
+
+.grid-square {
+  background-color: #fff;
+  width: 100%;
+  height: 100%;
 }
