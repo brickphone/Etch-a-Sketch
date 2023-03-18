@@ -7,6 +7,8 @@ body {
   background-color: #f0f0f0;
 }
 
+.main-container {}
+
 #container {
   display: grid;
   grid-template-columns: repeat(16, 1fr);

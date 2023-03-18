@@ -14,3 +14,4 @@ squares.forEach((square) => {
     square.style.backgroundColor = 'black';
   });
 });
+
